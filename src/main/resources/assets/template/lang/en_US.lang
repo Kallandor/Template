@@ -1,2 +1,3 @@
 item.template:mapleLeaf.name=Maple Leaf of Awesomeness
-tile.template:flag.name=Canadian Flag of Awesomeness
+tile.template:Flag.name=Canadian Flag of Awesomeness
+itemGroup.template=Template

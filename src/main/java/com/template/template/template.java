@@ -1,6 +1,7 @@
 package com.template.template;
 
 import com.template.template.Handler.ConfigurationHandler;
+import com.template.template.init.ModBlocks;
 import com.template.template.init.Moditems;
 import com.template.template.proxy.IProxy;
 import com.template.template.utility.LogHelper;
@@ -33,6 +34,8 @@ public class template {
         LogHelper.info("Pre Initialization Complete!");
 
         Moditems.init();
+
+        ModBlocks.init();
     }
 
     @Mod.EventHandler

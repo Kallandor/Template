@@ -1,5 +1,6 @@
 package com.template.template.item;
 
+import com.template.template.CreativeTab.CreativeTabTemplate;
 import com.template.template.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -10,11 +11,12 @@ import net.minecraft.item.ItemStack;
 /**
  * Created by dlwilson on 8/14/2014.
  */
-public class ItemsMCM extends Item
+public class ItemsTemplate extends Item
 {
-    public ItemsMCM()
+    public ItemsTemplate()
     {
         super();
+        this.setCreativeTab(CreativeTabTemplate.TEMPLATE_TAB);
     }
 
     @Override
