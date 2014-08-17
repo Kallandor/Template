@@ -3,6 +3,7 @@ package com.template.template;
 import com.template.template.Handler.ConfigurationHandler;
 import com.template.template.init.ModBlocks;
 import com.template.template.init.Moditems;
+import com.template.template.init.Recipes;
 import com.template.template.proxy.IProxy;
 import com.template.template.utility.LogHelper;
 import cpw.mods.fml.common.FMLCommonHandler;
@@ -41,7 +42,7 @@ public class template {
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
-
+        Recipes.init();
     }
 
     @Mod.EventHandler
