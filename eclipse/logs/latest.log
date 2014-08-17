@@ -1,0 +1,45 @@
+[21:54:30] [main/INFO]: Setting user: ForgeDevName
+[21:54:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:54:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod, FMLFileResourcePack:Template
+[21:54:35] [Sound Library Loader/INFO]: Sound engine started
+[21:54:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:54:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:54:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod, FMLFileResourcePack:Template
+[21:54:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:54:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:54:37] [Sound Library Loader/INFO]: Sound engine started
+[21:54:50] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:54:50] [Server thread/INFO]: Generating keypair
+[21:54:50] [Server thread/INFO]: Preparing start region for level 0
+[21:54:50] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:54:51] [Server thread/INFO]: ForgeDevName[local:E:4cf70e21] logged in with entity id 144 at (2331.4610761495096, 4.0, -233.071463999939)
+[21:54:51] [Server thread/INFO]: ForgeDevName joined the game
+[21:54:55] [Client thread/INFO]: [CHAT] /gamemode, /give, /gamerule
+[21:55:00] [Client thread/INFO]: [CHAT] doDaylightCycle, doFireTick, doMobLoot, doMobSpawning, doTileDrops
+[21:55:05] [Server thread/INFO]: [ForgeDevName: Game rule has been updated]
+[21:55:05] [Client thread/INFO]: [CHAT] Game rule has been updated
+[21:55:10] [Client thread/INFO]: [CHAT] /testfor, /tellraw, /tell, /toggledownfall, /testforblock, /time, /tp
+[21:55:12] [Client thread/INFO]: [CHAT] /testfor, /tellraw, /tell, /toggledownfall, /testforblock, /time, /tp
+[21:55:13] [Client thread/INFO]: [CHAT] /testfor, /tellraw, /tell, /toggledownfall, /testforblock, /time, /tp
+[21:55:13] [Client thread/INFO]: [CHAT] /testfor, /tellraw, /tell, /toggledownfall, /testforblock, /time, /tp
+[21:55:13] [Client thread/INFO]: [CHAT] /testfor, /tellraw, /tell, /toggledownfall, /testforblock, /time, /tp
+[21:55:14] [Client thread/INFO]: [CHAT] /testfor, /tellraw, /tell, /toggledownfall, /testforblock, /time, /tp
+[21:55:17] [Client thread/INFO]: [CHAT] set, add
+[21:55:20] [Client thread/INFO]: [CHAT] day, night
+[21:55:21] [Client thread/INFO]: [CHAT] day, night
+[21:55:21] [Client thread/INFO]: [CHAT] day, night
+[21:55:22] [Client thread/INFO]: [CHAT] day, night
+[21:55:22] [Client thread/INFO]: [CHAT] day, night
+[21:55:25] [Server thread/INFO]: [ForgeDevName: Set the time to 6000]
+[21:55:25] [Client thread/INFO]: [CHAT] Set the time to 6000
+[21:59:00] [Server thread/INFO]: Saving and pausing game...
+[21:59:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:59:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:59:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:59:03] [Server thread/INFO]: Stopping server
+[21:59:03] [Server thread/INFO]: Saving players
+[21:59:03] [Server thread/INFO]: Saving worlds
+[21:59:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:59:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:59:03] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:59:04] [Client thread/INFO]: Stopping!
