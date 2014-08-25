@@ -1,3 +1,14 @@
+# Items
 item.template:mapleLeaf.name=Maple Leaf of Awesomeness
+
+# Blocks
 tile.template:Flag.name=Canadian Flag of Awesomeness
+
+# Creative Tab
 itemGroup.template=Template
+
+# Key Bindings
+
+keys.template.category=Template
+keys.template.charge=Charge
+keys.template.release=Release
